@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 ### Pasta com alguns códigos relacionados à Machine Learning
 #### Esses códigos foram feitos durante a disciplina de Machine Learning ensinada pela UFSCar
 
